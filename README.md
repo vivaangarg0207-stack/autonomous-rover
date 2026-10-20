@@ -12,6 +12,10 @@ Edge computing serves as a distributed computing model and IT architecture that 
 
 A containerized application can be packaged with a runtime environment, AI model, and dependencies, such as libraries, binaries and configuration files, required for its operation. By integrating the components necessary to function independently, such an application can operate on a variety of infrastructures, including an edge device. In the proposed architecture, Podman serves as the container-management tool responsible for deploying and managing the container intended for running the Java application that interacts with the integrated AI. The Java application coordinates sensor-data acquisition, preprocessing, and result handling, while the AI model performs functional analysis. Depending on the model and design specifications, a GPU can serve as a means of accelerating suitable AI computation.
 
+# Proposed Architecture
+
+<img src="images/proposed-architecture.png" />
+
 # Proposed Solution
 
 Assuming NASA uses a hypothetical lunar rover vehicle for space exploration, deriving energy from solar power, the following apparatus can be considered. The lunar rover seeks to integrate antennas to facilitate the ground communication, with certain sensors including:
