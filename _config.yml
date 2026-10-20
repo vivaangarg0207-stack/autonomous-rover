@@ -1,3 +1,5 @@
-remote_theme: pages-themes/time-machine@v0.2.0
-plugins:
-- jekyll-remote-theme
+title: Edge Computing for Autonomous Lunar Rover Operations Under Communication Constraints
+description: This is the conceptual architectural proposal for the Autonomous Lunar Rover.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-time-machine
