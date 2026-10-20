@@ -1,4 +1,4 @@
 title: Edge Computing for Autonomous Lunar Rover Operations Under Communication Constraints
 description: This is the conceptual architectural proposal leverages edge device attached to a hypothetical rover solving the problem of high latency and communication disruption to ground facility.
 show_downloads: true
-theme: jekyll-theme-tactile
+theme: jekyll-theme-modernist
