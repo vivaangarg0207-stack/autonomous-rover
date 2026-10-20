@@ -12,7 +12,7 @@ A containerized application can be packaged with a runtime environment, AI model
 
 # Proposed Architecture
 
-<img src="docs/images/proposed-architecture.png" />
+<img src="images/proposed-architecture.png" />
 
 # Proposed Solution
 
